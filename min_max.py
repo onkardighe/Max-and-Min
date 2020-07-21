@@ -1,3 +1,8 @@
+# Find the smallest and largest numbers
+# This allows the user to enter a list of numbers until the user types done or press enter then the prompt would stop
+# Author: Impulse98
+
+
 
 inputs = []                                   #empty array to store user input
 smallest = None                               #None allows you to find the smallest value when relying on user input
